@@ -1,1 +1,1 @@
-Praktikum Web Programming Tahun Ajaran 2024/2025
+Praktikum Web Programming 2024/2025
